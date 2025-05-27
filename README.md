@@ -61,7 +61,7 @@ expense-tracker/
 ⚙️ Installation
 1. Clone the repo
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone [https://github.com/your-username/expense-tracker.git](https://github.com/ayushXdev/Expenseapp/tree/main)
 cd expense-tracker
 
 2. Backend Setup
